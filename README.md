@@ -1,2 +1,2 @@
 # git-flow-test
-sdfdsfdf dfdfdsf ,,,, Just testing this git-flow
+ now try merge sdfdsfdf dfdfdsf ,,,, Just testing this git-flow
